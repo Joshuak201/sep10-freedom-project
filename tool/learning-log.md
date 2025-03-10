@@ -66,7 +66,8 @@
 #### What I will try next
 * I will learn more about how to create more 3D elements on one project/webpage.
     * I will watch videos and continue to tinker.
-* 
+* Study more
+    * Take notes in class about general things like the importance of my tool and the role it will play into my webpage.
   
  
 
