@@ -68,6 +68,13 @@
     * I will watch videos and continue to tinker.
 * Study more
     * Take notes in class about general things like the importance of my tool and the role it will play into my webpage.
+ 
+### 3/24/25
+#### Overview
+* I started learning how to make a fresh project by notusing any a-frame starter code.
+    * This will help me along the lines because I will need fresh code for the freedom project.
+* I tinkered with my code and made some progress.
+* 
   
  
 
