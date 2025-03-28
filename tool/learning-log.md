@@ -74,7 +74,18 @@
 * I started learning how to make a fresh project by notusing any a-frame starter code.
     * This will help me along the lines because I will need fresh code for the freedom project.
 * I tinkered with my code and made some progress.
-* 
+* I made a scene with grass and a sun. Here's how it looks:
+  ![Screenshot 2025-03-28 1 12 04 PM](https://github.com/user-attachments/assets/aa7a16b5-7fd9-4bdb-86d2-00b73ff30849)
+#### Challenge
+The only challenge I had was that I did it fully from scratch. This was difficult but very helpful because it giving me pratice for my end of the year project.
+#### Questions
+* How do I create oe single model that will allow me to move it around and observe it?
+* How do I create a fully polished scene?
+* Can I import png and other models to manipulate my own model?
+#### What I will try next
+* Next, I will try to create one single model of tool. I will create a few to test out how they look and if I even want them to look like that.
+* I will try to create a scene with the moon instead of the sun.
+
   
  
 
