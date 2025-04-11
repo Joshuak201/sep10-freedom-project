@@ -10,9 +10,12 @@ I am pretty happy that I decided to choose a-frame due to the ease and what you 
 ### Sources
 #### [A-frame](https://aframe.io/)
 Using a-frame has been pretty easy and it even gives you documentations to help you further along your design processes.
-#### [Youtube](youtube.com)
+#### [Youtube](https://www.youtube.com/)
 In this journey, youtube has been a bigg help, giving me tutorials, helping me understand a-frame, helping me to build enviornment & models with ease.
-#### [Pickcode](pickcode.io)
+#### [Pickcode](https://pickcode.io)
+
+
+
 
 [Previous](entry04.md) | [Next](entry06.md)
 
