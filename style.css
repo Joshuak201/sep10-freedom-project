@@ -1,7 +1,7 @@
      .hero-section {
             position: relative;
             width: 100%;
-            height: 90vh;
+            height: 100vh;
             background: url('https://www.uzh.ch/dam/jcr:77acae4c-6f74-483a-97c7-48b14ef3a855/Theoretical_Astrophysics_Cosmology_Master.jpg') no-repeat center center/cover;
             background-attachment: fixed;
             display: flex;
@@ -84,13 +84,13 @@
                 padding: 80px;
                 background-color:#C4C4C4;
              }
-             .overview{
+             .section-overview{
                 font-size:20px;
-                color:#ADD8E6;
+                background-color:#8D9797;
                 text-align:center;
                 padding-right:50px;
              }
-             .gadget{
+             .section-gadget{
                 font-size:20px;
                 color:#ADD8E6;
                 text-align:center;
@@ -99,7 +99,7 @@
            .hero-section2 {
             position: relative;
             width: 100%;
-            height: 90vh;
+            height: 100vh;
             background: url('https://www.ejiltalk.org/wp-content/uploads/2021/03/pexels-photo-110854.jpeg') no-repeat center center/cover;
             background-attachment: fixed;
             display: flex;
