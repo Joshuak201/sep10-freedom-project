@@ -77,5 +77,12 @@
                 border-radius:10%;
                 margin-bottom:20px;
              }
+             .section-hardware{
+                 font-family:'Oswald', sans-serif;
+                font-size:20px;
+                text-align:center;
+                padding: 80px;
+                background-color:#C4C4C4;
+             }
 
 
