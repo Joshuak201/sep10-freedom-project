@@ -19,24 +19,24 @@
     <section class="hero-section">
         <h1 class="title">Astrophysics</h1>
         <p class="hero-description">Sep10 Freedom Project</p>
-         <div class="row align-items-center">
-                    <div class="col-md-4">
-                        <a class="nav-link about" href="#about">ABOUT</a>
-                    </div>
-                    <div class="col-md-4">
-                        <a class="nav-link software"  href="#software">SOFTWARE</a>
-                    </div>
-                    <div class="col-md-4">
-                        <a class="nav-link hardware"  href="#hardware">HARDWARE</a>
-                    </div>
-              </div>
+        <div class="row align-items-center">
+            <div class="col-md-4">
+                <a class="nav-link about" href="#about">ABOUT</a>
+            </div>
+            <div class="col-md-4">
+                <a class="nav-link software" href="#software">SOFTWARE</a>
+            </div>
+            <div class="col-md-4">
+                <a class="nav-link hardware" href="#hardware">HARDWARE</a>
+            </div>
+        </div>
     </section>
 
-    <div class="section-about">
+    <div id="about" class="section-about">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-12">
-                        <h1 id="#about">ABOUT</h1>
+                        <h1>ABOUT</h1>
                         <p>What will this project be about?</p>
                         <p>Astrophysics is the use of chemistry and real-world physics to further understand the universe around us. What role does technology play into astrophysics, you may ask, well, there are many forms of technology that play into it. Ranging from telescopes, satellites, space probes, or even software like IRAF, ds9, and CASA. What are these you may ask, well, this project will let you know exactly what these technologies are.</p>
                 </div>
@@ -46,11 +46,35 @@
       <div class="section-software">
         <div class="container-fluid">
             <div class="row">
-                <h1>SOFTWARE</h1>
+                <h1 style="padding-bottom:50px;">SOFTWARE</h1>
                 <div class="col-md-4">
-                    <h4>IRAF</h4>
-                    <img src="https://www.ir.isas.jaxa.jp/~cyamauch/iraf64/sshot_iraf64_imexam.png" alt="IRAF" style="width:300px;height:300px;" class="images">
-                    <p>IRAF(also known as "Image Reduction and Analysis Facility")is used by astronomers to analyze data</p>
+                    <div class="card" style="width: 20rem;">
+                        <img src="https://www.ir.isas.jaxa.jp/~cyamauch/iraf64/sshot_iraf64_imexam.png" class="card-img-top" alt="IRAF">
+                        <div class="card-body">
+                            <h5 class="card-title">IRAF</h5>
+                            <p class="card-text">IRAF(also known as "Image Reduction and Analysis Facility")is used by astronomers to analyze data that takes place in space.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- DS9 Card -->
+                <div class="col-md-4">
+                    <div class="card" style="width: 20rem;">
+                        <img src="https://ds9.si.edu/doc/user/scripts/contourdss.png" class="card-img-top" alt="DS9 Screenshot">
+                        <div class="card-body">
+                            <h5 class="card-title">DS9</h5>
+                            <p class="card-text">DS9 is an application used for viewing and analyzing data that takes place in space.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- CASA Card -->
+                <div class="col-md-4">
+                    <div class="card" style="width: 20rem;">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwlEwqih62rL39E69VgAZ6WMEflQafOlry6Q&ss" class="card-img-top" alt="CASA Logo">
+                        <div class="card-body">
+                            <h5 class="card-title">CASA</h5>
+                            <p class="card-text">CASA(also known as "Common Astronomy Software Applications") is a software used for processing and analyzing radio astronomical data, especially from telescopes.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -59,8 +83,36 @@
     <div class="section-hardware">
         <div class="container-fluid">
             <div class="row">
-                <h1>HARDWARE</h1>
-
+                <h1 style="padding-bottom:50px;">HARDWARE</h1>
+                <div class="col-md-4">
+                    <div class="card" style="width: 20rem;">
+                        <img src="https://store.thamesandkosmos.com/cdn/shop/products/WEB__0001_2-EST-Telescope_model.jpg?v=1660758660" class="card-img-top" alt="Telescope">
+                        <div class="card-body">
+                            <h5 class="card-title">Telescope</h5>
+                            <p class="card-text">Telescopes are the most common hardware in all of space exploration, allowing scientists to observe and gather data from across the universe.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Satellite Card -->
+                <div class="col-md-4">
+                    <div class="card" style="width: 20rem;">
+                        <img src="https://www.ucs.org/sites/default/files/styles/large/public/images/gw-nasa-earth-science-mission-satellite.jpg?itok=SI5AJ1PT" class="card-img-top" alt="Satellite">
+                        <div class="card-body">
+                            <h5 class="card-title">Satellite</h5>
+                            <p class="card-text">Satellites are used to monitor both Earth and space, collect data, and relay communications, which makes its role in space exploration all the more important.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Space Probe Card -->
+                <div class="col-md-4">
+                    <div class="card" style="width: 20rem;">
+                        <img src="https://cdn.britannica.com/57/4957-050-D5B48D7B/spacecraft-depiction-artist-body-Voyager-receivers-dish.jpg" class="card-img-top" alt="Space Probe">
+                        <div class="card-body">
+                            <h5 class="card-title">Space Probe</h5>
+                            <p class="card-text">Space probes are unmanned spacecrafts that used to explore space and gather information about planets, moons, and other things in the universe.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
