@@ -59,9 +59,11 @@
                 text-align:center;
                 padding-left:15px;
 
-            .about-description{
+            }
+             .section-about{
+                font-family:'Oswald', sans-serif;
                 font-size:30px;
-                color:#ADD8E6;
                 text-align:center;
+                padding: 80px
             }
 
