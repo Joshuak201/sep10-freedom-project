@@ -58,7 +58,6 @@
                 color:#ADD8E6;
                 text-align:center;
                 padding-left:15px;
-
             }
              .section-about{
                 font-family:'Oswald', sans-serif;
@@ -67,4 +66,12 @@
                 padding: 80px;
                 background-color:#B5C7EB;
             }
+             .section-software{
+                font-family:'Oswald', sans-serif;
+                font-size:20px;
+                text-align:center;
+                padding: 80px;
+                background-color:#;
+             }
+
 
